@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTE3NzMyNjE4NzIxMTY1MzU1.DuGf1w.xXej9mrMF62UGPWDQG_5OgrehCs
+owner=399250242136047619 
+prefix=V
+game=Happy Birthday Victoria
 stayinchannel=true
 songinstatus=true
